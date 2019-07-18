@@ -1,6 +1,6 @@
 {
-  "short_name": "Scheduler Front",
-  "name": "Scheduler front UI",
+  "short_name": "Scheduler Admin",
+  "name": "Scheduler admin UI",
   "icons": [
     {
       "src": "favicon.ico",
